@@ -1,0 +1,4 @@
+- git init (start a new git repo)
+- git status (to view the status of our project)
+- git add (to add changes to staging area of our repo)
+- git commit -m 'mssage' (to commit our changes)
